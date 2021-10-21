@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-01-31T09:19:33.5888572Z"
+    }
+  },
+  "parameters": {
+    "KudvenkatQuotes.resourceName": {
+      "Name": "KudvenkatQuotes.resourceName",
+      "Type": null,
+      "Value": "KudvenkatQuotes"
+    },
+    "KudvenkatQuotes.resourceGroupLocation": {
+      "Name": "KudvenkatQuotes.resourceGroupLocation",
+      "Type": null,
+      "Value": "eastus"
+    },
+    "KudvenkatQuotes.resourceGroupName": {
+      "Name": "KudvenkatQuotes.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Quotes20210123074658ResourceGroup"
+    },
+    "KudvenkatQuotes.subscriptionId": {
+      "Name": "KudvenkatQuotes.subscriptionId",
+      "Type": "subscription",
+      "Value": "46f784c4-0ea0-4dcc-9ba6-8c2deca2d230"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "46f784c4-0ea0-4dcc-9ba6-8c2deca2d230"
+    }
+  }
+}
